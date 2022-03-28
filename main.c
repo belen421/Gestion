@@ -3,6 +3,5 @@
 
 int main (){
 	printf("BELEN\b");
-	printf("Menendez
-	      \b");
+	printf("Menendez\b");
 }
